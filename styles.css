@@ -30,7 +30,8 @@
 
 html {
     background-color: black;
-    color: white
+    color: white;
+    font-family: 'Arial'; 
 }
 
 .Links {
@@ -42,7 +43,8 @@ html {
 h2 {
     font-size: 30px;
     text-transform: capitalize;
-    text-align: left;;
+    text-align: left;
+
 }
 
 p {
