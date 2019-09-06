@@ -16,7 +16,7 @@
     text-align: left;
 }
 
-#Paypal {
+#PayPal {
     background-color: #1a0dab;
     font-size: 17px;
     text-align: left;
@@ -49,4 +49,8 @@ h2 {
 
 p {
     line-height: 20px;
+}
+
+.Title { 
+    text-transform: capitalize
 }
